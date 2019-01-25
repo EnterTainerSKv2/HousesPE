@@ -24,7 +24,7 @@ use pocketmine\level\sound\GhastSound;
 use pocketmine\network\mcpe\protocol\LevelSoundEventPacket;
 
 
-Class House extends PB implements L{
+Class Main extends PB implements L{
 
   public $noperm = "§cYou do not have permissions to use this!.";
 
