@@ -1,1 +1,11 @@
 
+# Cost of houses #
+
+small.cost: 2500
+medium.cost: 4000
+
+# For the Exit button #
+
+cancelled: "§aCancelled to buying yourself."
+
+...
